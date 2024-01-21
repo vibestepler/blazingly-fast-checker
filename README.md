@@ -1,1 +1,1 @@
-# checker-go
+#### blazingly-fast-checker
