@@ -1,1 +1,1 @@
-#### blazingly-fast-checker
+#### blazingly-fast-checker (WIP)
